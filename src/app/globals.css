@@ -31,3 +31,13 @@ body {
     text-wrap: balance;
   }
 }
+
+h1 {
+  color: red;
+}
+
+div {
+  height: 500px;
+  width: 500px;
+  background-color: red;
+}
